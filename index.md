@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+![](./images/Slide1.jpg)<br />
 
-You can use the [editor on GitHub](https://github.com/OlaOlagunju/visuals/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](./images/Slide2.jpg)<br />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](./images/Slide3.jpg)<br />
 
-### Markdown
+![](./images/Slide4.jpg)<br />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](./images/Slide5.jpg)<br />
 
-```markdown
-Syntax highlighted code block
+![](./images/Slide6.jpg)<br />
 
-# Header 1
-## Header 2
-### Header 3
+![](./images/Slide7.jpg)<br />
 
-- Bulleted
-- List
+![](./images/Slide8.jpg)<br />
 
-1. Numbered
-2. List
+![](./images/Slide9.jpg)<br />
 
-**Bold** and _Italic_ and `Code` text
+![](./images/Slide10.jpg)<br />
 
-[Link](url) and ![Image](src)
-```
+![](./images/Slide11.jpg)<br />
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![](./images/Slide12.jpg)<br />
 
-### Jekyll Themes
+![](./images/Slide13.jpg)<br />
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OlaOlagunju/visuals/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![](./images/Slide14.jpg)<br />
 
-### Support or Contact
+![](./images/Slide15.jpg)<br />
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](./images/Slide16.jpg)<br />
+
+![](./images/Slide17.jpg)<br />
+
+![](./images/Slide18.jpg)<br />
+
+![](./images/Slide19.jpg)<br />
+
+![](./images/Slide20.jpg)<br />
+
+![](./images/Slide21.jpg)<br />
+
+![](./images/Slide22.jpg)<br />
+
+![](./images/Slide23.jpg)<br />
+
+![](./images/Slide24.jpg)<br />
+
+![](./images/Slide25.jpg)<br />
+
+![](./images/Slide26.jpg)<br />
+
+![](./images/Slide27.jpg)<br />
+
+![](./images/Slide28.jpg)<br />
+
+![](./images/Slide29.jpg)<br />
+
+![](./images/Slide30.jpg)<br />
+
+![](./images/Slide31.jpg)<br />
+
+![](./images/Slide32.jpg)<br />
+
+![](./images/Slide33.jpg)<br />
+
+![](./images/Slide34.jpg)<br />
+
+![](./images/Slide35.jpg)<br />
+
+![](./images/Slide36.jpg)<br />
+
+![](./images/Slide37.jpg)<br />
+
+![](./images/Slide38.jpg)<br />
+
+![](./images/Slide39.jpg)<br />
+
+![](./images/Slide40.jpg)<br />
+
+![](./images/Slide41.jpg)<br />
+
+![](./images/Slide42.jpg)<br />
+
+![](./images/Slide43.jpg)<br />
+
+![](./images/Slide44.jpg)<br />
+
+![](./images/Slide45.jpg)<br />
+
